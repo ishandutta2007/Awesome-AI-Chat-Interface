@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[ChatGPT Enterprise](https://openai.com/enterprise)**  
-
-  Enterprise-grade conversational interface from OpenAI with admin controls, data privacy options, and advanced GPT model access.
-
-
-
-- **[Claude Pro / Claude Team](https://claude.ai/)**  
-
-  Anthropic’s polished chat interface optimized for long-context reasoning, coding, and careful assistance.
-
-
-
-- **[Poe](https://poe.com/)**  
-
-  Multi-bot chat interface that aggregates many frontier and custom models in a single, easy-to-use frontend.
-
-
-
-- **[Perplexity Enterprise](https://www.perplexity.ai/)**  
-
-  Search-augmented chat interface with citations, focused on accurate, source-backed answers for teams.
-
-
-
-- **[Google Gemini Advanced](https://gemini.google.com/)**  
-
-  Google’s premium multimodal chat experience tightly integrated with Google Workspace and services.
-
-
-
-- **[Microsoft Copilot Pro / Copilot Studio interfaces](https://copilot.microsoft.com/)**  
-
-  Microsoft’s AI chat experiences across Windows, Edge, Microsoft 365, and custom enterprise copilots.
-
-
-
-- **[HuggingChat](https://huggingface.co/chat)**  
-
-  Open-model chat interface hosted by Hugging Face, providing free access to a selection of community models.
-
-
-
-- **[Pi.ai](https://pi.ai/)**  
-
-  Personal AI companion interface focused on natural, ongoing conversation and everyday support.
-
-
-
-- **[You.com Pro](https://you.com/)**  
-
-  AI search + chat interface combining web results with conversational answers and productivity features.
-
-
-
-- **[Grok (xAI)](https://x.ai/)** / Grok Cloud  
-
-  xAI’s distinctive chat interface with real-time knowledge and a more irreverent personality.
+| Platform | Company & Size (Valuation / Market Cap / Revenue) | Pricing (Starting Paid Tier) | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Copilot Pro / Copilot Studio](https://copilot.microsoft.com/)** | **Microsoft**<br>Market Cap: ~$3.1T (FY25 Revenue: $245B+) | $20/user/month (Copilot Pro) / $30/user/month (Copilot for M365) | Free forever with Microsoft account: Standard access to GPT-4o, web grounding, 15 daily boosts for image generation (Designer). | Microsoft's conversational AI assistant embedded across Windows 11, Edge browser, and Microsoft 365 apps. |
+| **[Google Gemini Advanced](https://gemini.google.com/)** | **Alphabet (Google)**<br>Market Cap: ~$2.1T (FY24 Revenue: $350B+) | $19.99/month (Google One AI Premium plan) | Free forever plan: Standard access to Gemini 1.5 Flash / Pro with rate limits, standard image generation, and 15 GB unified Google storage. (Paid tier includes 1-month free trial). | Multimodal chat interface tightly integrated with Google Workspace, search groundings, and Google Drive. |
+| **[ChatGPT Enterprise](https://openai.com/enterprise)** | **OpenAI**<br>Valuation: ~$157B (Annualized Revenue: $3.7B+) | $20/user/month (Team tier, billed annually) or $25/user/month (monthly); Enterprise starting at ~$60/seat/mo | Free forever plan: Standard GPT-4o mini unlimited access, dynamic rate-limited access to GPT-4o (typically ~10–16 messages every 3 hours before falling back), and up to 2 image generations/day. | OpenAI's flagship conversational interface offering frontier models, custom GPTs, Canvas, and workspace management. |
+| **[Grok (xAI)](https://x.ai/)** | **xAI**<br>Valuation: ~$50B | $8/month (X Premium) or $16/month (X Premium+) | Free tier available to X users with verified phone: Limited to 10 queries every 2 hours on Grok-2 and up to 2 image generation requests per day. | xAI's real-time chat and reasoning model featuring live X (Twitter) platform integration and multimodal capabilities. |
+| **[Claude Pro / Claude Team](https://claude.ai/)** | **Anthropic**<br>Valuation: ~$40B (Annualized Revenue: ~$1B) | $20/month (Claude Pro) or $25/user/month (Claude Team, min 5 seats) | Free forever plan: Dynamic message limit based on demand (~10–30 messages every 5 hours on Claude 3.5 Sonnet) with 5 file attachments per conversation (up to 10MB each). | Anthropic's chat workspace optimized for coding, long-context reasoning (200k tokens), and Artifacts. |
+| **[Perplexity Enterprise](https://www.perplexity.ai/)** | **Perplexity AI**<br>Valuation: ~$9B | $20/month (Perplexity Pro) or $40/seat/month (Enterprise Pro) | Free forever plan: Unlimited standard quick searches, up to 5 Pro Searches every 4 hours, and up to 3 file analysis uploads daily. | Search-augmented conversational AI engine providing web citations, document synthesis, and model switching. |
+| **[HuggingChat](https://huggingface.co/chat)** | **Hugging Face**<br>Valuation: ~$4.5B | $9/month (Hugging Face PRO, includes $2/mo inference credits) | Free forever plan: Access to open-weight models (Llama, Mistral, Qwen) with a monthly credit pool (~$0.10/mo equivalent) subject to burst rate-limiting. | Open-source community chat frontend supporting open-weight models, community assistants, and web search plugins. |
+| **[You.com Pro](https://you.com/)** | **You.com**<br>Valuation: ~$1.5B (Total Funding: ~$195M) | $20/month (You.com Pro) | Free forever plan: Limited basic web search queries, up to 5 file uploads per query (max 5MB file size), and 1 workspace collaborator. | AI search and chat assistant combining real-time web citations, multi-model switching, and document analysis. |
+| **[Pi.ai](https://pi.ai/)** | **Inflection AI**<br>Valuation: ~$1.2B (Peak $4B, restructured after $650M MSFT licensing) | Free / Developer API pay-as-you-go | Free forever: 100% free consumer chat and voice interaction with no paid subscription paywall or message gating on pi.ai and mobile apps. | Emotionally intelligent conversational companion designed for natural voice dialogues, brainstorming, and personal support. |
+| **[Poe](https://poe.com/)** | **Quora**<br>Valuation: ~$500M | $19.99/month or $199.99/year (Includes 1,000,000 monthly compute points) | Free forever plan: Daily allowance of 3,000 compute points for standard bots (e.g. Claude 3 Haiku, GPT-4o-mini), resetting every 24 hours. | Multi-bot chat aggregator by Quora unifying frontier models, user-created bots, and custom prompt bots in one interface. |
 
 
 
